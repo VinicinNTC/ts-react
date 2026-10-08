@@ -7,3 +7,5 @@
 npm install typescript vite --save-dev
  
 npx tsc --init'
+
+'P2 React + NestJS + React Native Expo'
