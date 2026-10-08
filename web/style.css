@@ -1,0 +1,17 @@
+*{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+
+    background-color: #dbdbd4;
+    justify-content: center;
+    display: grid;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
